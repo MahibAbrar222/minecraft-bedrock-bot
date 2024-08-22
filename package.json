@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "bedrock-protocol": "^3.39",
     "vec3": "^0.1.10"
