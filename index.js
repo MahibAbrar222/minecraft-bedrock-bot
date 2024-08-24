@@ -10,7 +10,7 @@ var chunk = new ChunkColumn();
 
 const HOST = 'Hdvej.aternos.me';
 const PORT = 62765;
-const USERNAME = 'AsolBot';
+const USERNAME = 'ServerBot';
 var entityId = null;
 var inventory = [];
 var heartLife = 20;
