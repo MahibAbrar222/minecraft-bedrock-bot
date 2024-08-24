@@ -158,14 +158,7 @@ client.on("entity_event", (packet) => {
         PostionOfBot.position.z += 1;
         movePlayer(PostionOfBot)
     }else if(packet.event_id == 'death_animation'){
-        client.queue('text', {
-            type: 'chat',
-            needs_translation: false,
-            source_name: USERNAME,
-            xuid: '',
-            platform_chat_id: '', filtered_message: '',
-            message: "Who kill me?"
-        });
+        
     }else if(packet.event_id == "respawn"){
         console.log("Bot Respawned.")
     }else if(packet.event_id == "player_check_treasure_hunter_achievement"){
