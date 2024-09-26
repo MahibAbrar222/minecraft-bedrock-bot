@@ -10,9 +10,7 @@
     "env": {
       "NODE_ENV": "production"
     },
-    "scripts": {
-      "build": "npm i"
-    }
+    "build": "npm i",
   },
   "routes": [
     {
