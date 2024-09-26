@@ -6,12 +6,6 @@
       "use": "@vercel/node"
     }
   ],
-  "build": {
-    "env": {
-      "NODE_ENV": "production"
-    },
-    "build": "npm i",
-  },
   "routes": [
     {
       "src": "/(.*)",
