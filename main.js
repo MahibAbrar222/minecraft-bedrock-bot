@@ -8,8 +8,8 @@ const pako = require('pako');
 
 var chunk = new ChunkColumn();
 
-const HOST = 'Hdvej.aternos.me';
-const PORT = 62765;
+const HOST = 'mc.mahibabrar.me';
+const PORT = 19132;
 const USERNAME = 'ServerBot';
 var entityId = null;
 var inventory = [];
