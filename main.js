@@ -9,7 +9,7 @@ const pako = require('pako');
 var chunk = new ChunkColumn();
 
 const HOST = 'mc.mahibabrar.me';
-const PORT = 19132;
+const PORT = 42931;
 const USERNAME = 'ServerBot';
 var entityId = null;
 var inventory = [];
