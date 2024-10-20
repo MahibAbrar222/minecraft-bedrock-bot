@@ -3,12 +3,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "bedrock-protocol": "^3.39",
-    "bedrock-provider": "^3.1.0",
-    "pako": "^2.1.0",
-    "prismarine-block": "^1.17.1",
-    "prismarine-chunk": "^1.35.0",
-    "prismarine-registry": "^1.7.0",
-    "vec3": "^0.1.10"
+    "bedrock-protocol": "*",
+    "bedrock-provider": "*",
+    "pako": "*",
+    "prismarine-block": "*",
+    "prismarine-chunk": "*",
+    "prismarine-registry": "*",
+    "vec3": "*"
   }
 }
