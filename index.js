@@ -61,7 +61,7 @@ const client = bedrock.createClient({
 
     // Microsoft Authenication
     offline: true,
-    version: '1.21.20',
+    version: '1.21.30',
     skipPing: true
 });
 
